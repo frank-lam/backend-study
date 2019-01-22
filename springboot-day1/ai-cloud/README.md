@@ -29,7 +29,7 @@
 请求参数：
 
 - csv_url：http://file.biodwhu.cn/xxxxxxxxxxxx.csv
-- reback_url：http://api.biodwhu.cn/ecg/dp/classi4/v1/reback
+- notify_url：http://api.biodwhu.cn/ecg/dp/classi4/v1/reback
 
 - order_id：ECG-121223423412121231
 
@@ -53,7 +53,7 @@
 
 请求方式：POST
 
-请求地址：http://api.biodwhu.cn/ecg/dp/classi4/v1/reback
+请求地址：http://api.biodwhu.cn/ecg/dp/classi4/v1/notify
 
 请求参数：
 
@@ -71,6 +71,12 @@ SUCCESS_REBACK
 立即请求，3s，5s，10s，1m ... 
 
 后台通知交互时，如果微信收到商户的应答不符合规范或超时，微信会判定本次通知失败，重新发送通知，直到成功为止（在通知一直不成功的情况下，微信总共会发起10次通知，每次通知时间距离最近一次的间隔为15/15/30/180/1800/1800/1800/1800/3600，单位：秒），但微信不保证通知最终一定能成功。
+
+
+
+请参考微信支付回调：
+
+https://pay.weixin.qq.com/wiki/doc/api/app/app.php?chapter=9_7&index=3
 
 
 
