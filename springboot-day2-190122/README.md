@@ -63,3 +63,17 @@ private MessageServiceImpl messageService;
 MySQL 安装：
 
 - Navicat Premium 12 软件
+
+172.16.2.23
+
+3306
+
+root
+
+123456
+
+数据库：ai-cloud
+
+![1548168476652](assets/1548168476652.png)
+
+![1548168489457](assets/1548168489457.png)
