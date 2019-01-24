@@ -8,7 +8,7 @@
 
 
 
-## 一、内功修炼🔥🔥🔥
+## 一、内功修炼 🔥🔥🔥
 
 - Git 学习到进阶 🌞🌞🌞
   - 【极客时间】玩转 Git 三剑客
@@ -22,14 +22,14 @@
 
 
 
-## 二、Java🔥🔥🔥
+## 二、Java 🔥🔥🔥
 
 - Java 基础 / Java 容器 / Java 面向对象与设计模式 🌞🌞🌞🌞🌞
   - 【网易云课堂】浙大翁恺基础视频
 
 
 
-## 三、微服务🔥🔥🔥
+## 三、微服务 🔥🔥🔥
 
 - Maven 🌞🌞
    - [【慕课在线视频】项目管理—maven-慕课网](https://www.imooc.com/learn/443)
@@ -52,7 +52,7 @@
 
 
 
-## 四、数据库🔥🔥🔥
+## 四、数据库 🔥🔥🔥
 
 - MySQL 🌞🌞🌞
   - 【慕课网】与 MySQL 的零距离接触
@@ -62,13 +62,19 @@
 
 
 
-## 五、网络通信🔥🔥
+## 五、网络通信 🔥🔥
 
 - HTTP 协议详解 🌞🌞
   - [GitHub 仓库在线阅读](https://github.com/frank-lam/fullstack-tutorial/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md#%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86%E5%BA%94%E7%94%A8%E5%B1%82http)
 
 - RESTful API 🌞🌞
   - [GitHub 仓库在线阅读](https://github.com/frank-lam/fullstack-tutorial/blob/master/notes/RESTful%20API.md)
+
+
+
+## 六、前端 🔥🔥
+
+【慕课网】Vue2.5开发去哪儿网App 从零基础入门到实战项目 🌞🌞
 
 
 
