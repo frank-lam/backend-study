@@ -33,8 +33,9 @@
 - IntelliJ IDEA 开发工具学习 🌞🌞🌞
   - [【慕课在线视频】IntelliJ IDEA神器使用技巧-慕课网](https://www.imooc.com/learn/924)
 
-- SpringBoot 🌞🌞🌞
-  - 【硅尚谷】SpringBoot 上篇
+- 【硅尚谷】SpringBoot
+  - 【硅尚谷】SpringBoot 上篇 🌞🌞🌞
+  - 【硅尚谷】SpringBoot 下篇 🌞
 
 - SpringBoot 实战课程 🌞🌞🌞
   - 【慕课网】Spring Boot 微信点餐系统
@@ -53,7 +54,7 @@
   - 【慕课网】与 MySQL 的零距离接触
 
 - Redis 🌞🌞
-  - 【慕课网】Redis从入门到高可用，分布式实践
+  - 【慕课网】Redis 从入门到高可用，分布式实践
 
 
 
@@ -71,17 +72,18 @@
 
 > 根据实际情况学习
 
-- Python 学习 🌞
+- Python 学习 🐷🐷🐷
   - 【莫凡】Python 基础入门
 
-- 机器学习入门 🌞
+- 机器学习入门 🐷🐷🐷
   - 【慕课网】Python3 入门机器学习 经典算法与应用
+  - PDF《机器学习实战》
 
 
 
 ## * Leetcode
 
-> 有时间就学习吧
+> 有时间就学习吧 🐷
 
 - [力扣 (LeetCode) 中国官网 - 全球极客挚爱的技术成长平台](https://leetcode-cn.com/)
 
