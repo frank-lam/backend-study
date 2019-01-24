@@ -14,9 +14,9 @@ http://geektime.biodwhu.cn/
 - Git 学习到进阶 🌞🌞🌞
   - 【极客时间】玩转 Git 三剑客
 
-- Linux 基础 🌞🌞🌞
-  - 【Linux运维工程师】Linux 达人养成计划 I-Linux的入门级课程！
-  - 【Linux运维工程师】Linux 达人养成计划 II VIM+磁盘管理+用户权限！
+- Linux 基础
+  - 【Linux运维工程师】Linux 达人养成计划 I-Linux的入门级课程！ 🌞🌞🌞
+  - 【Linux运维工程师】Linux 达人养成计划 II VIM+磁盘管理+用户权限！ 🌞🌞
 
 - Docker 学习 🌞🌞
   - [《Docker 从入门到实战》在线电子书](https://yeasy.gitbooks.io/docker_practice/content/introduction/)
