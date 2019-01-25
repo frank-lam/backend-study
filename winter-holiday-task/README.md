@@ -17,6 +17,7 @@
 - Linux 基础
   -  [ ] 【Linux运维工程师】Linux 达人养成计划 I-Linux的入门级课程！ 🌞🌞🌞
   -  [ ] 【Linux运维工程师】Linux 达人养成计划 II VIM+磁盘管理+用户权限！ 🌞🌞
+  -  [ ] PDF 书籍《快乐的 Linux 命令行》🌞
 
 
 - Docker 学习 🌞🌞
