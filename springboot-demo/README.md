@@ -8,6 +8,12 @@ https://github.com/shimh-develop/blog-vue-springboot
 
 
 
+redis 安装：
+
+- https://github.com/frank-lam/docker-shell#redis
+
+
+
 线上地址：
 
 - ForFun Find Yourself   http://47.105.72.247
@@ -15,6 +21,8 @@ https://github.com/shimh-develop/blog-vue-springboot
 
 
 ## 数据库学习
+
+
 
 MySQL 🌞🌞🌞
 
